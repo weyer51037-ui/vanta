@@ -1,0 +1,49 @@
+name: VibeEconomy
+version: 1.1.0
+main: dev.vibe.economy.VibeEconomy
+api-version: '1.21'
+description: Economy, PvP/QoL shop, Vanta Shards and KeyAll.
+commands:
+  balance:
+    description: Check your balance or another player's.
+    aliases: [bal, money]
+    usage: /balance [player]
+  pay:
+    description: Send money to another player.
+    usage: /pay <player> <amount>
+  baltop:
+    description: Show the richest players.
+    aliases: [balancetop]
+    usage: /baltop
+  sell:
+    description: Sell items to the server.
+    usage: /sell [hand|all]
+  worth:
+    description: Check the sell price of an item.
+    usage: /worth [item]
+  shop:
+    description: Open the shop.
+    aliases: [store]
+    usage: /shop [pvp|qol|vanta|reload]
+  shards:
+    description: Check Vanta Shards.
+    aliases: [vanta, vs]
+    usage: /shards [player]
+  keyall:
+    description: Give every online player a Vanta Key.
+    usage: /keyall [amount]
+    permission: vibeeconomy.admin
+  vantakey:
+    description: Give a Vanta Key to a player.
+    usage: /vantakey give <player> [amount]
+    permission: vibeeconomy.admin
+  hud:
+    description: Toggle the VantaSMP sidebar HUD.
+    usage: /hud
+  eco:
+    description: Admin economy control.
+    usage: /eco <give|take|set> <player> <amount>
+    permission: vibeeconomy.admin
+permissions:
+  vibeeconomy.admin:
+    default: op

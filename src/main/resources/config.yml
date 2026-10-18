@@ -1,0 +1,26 @@
+# VibeEconomy config
+starting-balance: 250.0
+max-pay: 100000.0
+autosave-minutes: 5
+baltop-size: 10
+
+# Vanta Shards are earned from PvP kills
+shards:
+  per-kill: 5
+  money-per-kill: 100
+  streak-bonus: 1               # extra shards per streak level above 1
+  max-streak-bonus: 10          # cap on the streak bonus
+  same-victim-cooldown-seconds: 600   # killing the same player again within this earns nothing
+  block-same-ip: true           # no rewards for killing someone on your own IP (alt farming)
+  min-victim-playtime-minutes: 30     # victim must have this much playtime
+
+keyall-cooldown-minutes: 60     # cooldown on buying KeyAll from the shard shop (admins bypass)
+
+# VantaSMP HUD (sidebar scoreboard + tab list). Players can toggle with /hud
+hud:
+  enabled: true
+  title: "&5&lVANTASMP"
+  footer: "&5&lVantaSMP"
+  update-ticks: 20
+  tab-header: "&5&lVANTASMP"
+  tab-footer: "&7/shop &8| &7/shards &8| &7/sell all"

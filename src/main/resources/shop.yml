@@ -1,0 +1,314 @@
+# Shop layout. Edit, then run /shop reload.
+# Item fields: material, name, amount, lore, enchants ["sharpness:3"], potion, price, currency, commands, action, shards, money
+# Actions: KEY (give Vanta Keys), KEYALL (everyone online gets keys), REPAIR_HAND
+menu-title: "&5&lVANTA &8| &fShop"
+
+categories:
+  pvp:
+    title: "&c&lPvP Shop"
+    icon: DIAMOND_SWORD
+    slot: 11
+    currency: money
+    description: ["&7Gear and consumables for combat."]
+    items:
+      diamond_sword:
+        material: DIAMOND_SWORD
+        name: "&bBattle Sword"
+        price: 1200
+        enchants: ["sharpness:3", "unbreaking:3"]
+      netherite_sword:
+        material: NETHERITE_SWORD
+        name: "&5Void Blade"
+        price: 5500
+        enchants: ["sharpness:4", "fire_aspect:2", "unbreaking:3"]
+      diamond_helmet:
+        material: DIAMOND_HELMET
+        price: 1600
+        enchants: ["protection:3", "unbreaking:3"]
+      diamond_chestplate:
+        material: DIAMOND_CHESTPLATE
+        price: 2500
+        enchants: ["protection:3", "unbreaking:3"]
+      diamond_leggings:
+        material: DIAMOND_LEGGINGS
+        price: 2200
+        enchants: ["protection:3", "unbreaking:3"]
+      diamond_boots:
+        material: DIAMOND_BOOTS
+        price: 1300
+        enchants: ["protection:3", "unbreaking:3", "feather_falling:3"]
+      netherite_helmet:
+        material: NETHERITE_HELMET
+        price: 5000
+        enchants: ["protection:4", "unbreaking:3"]
+      netherite_chestplate:
+        material: NETHERITE_CHESTPLATE
+        price: 7500
+        enchants: ["protection:4", "unbreaking:3"]
+      netherite_leggings:
+        material: NETHERITE_LEGGINGS
+        price: 6500
+        enchants: ["protection:4", "unbreaking:3"]
+      netherite_boots:
+        material: NETHERITE_BOOTS
+        price: 4500
+        enchants: ["protection:4", "unbreaking:3", "feather_falling:4"]
+      bow:
+        material: BOW
+        name: "&eWar Bow"
+        price: 900
+        enchants: ["power:4", "unbreaking:3", "infinity:1"]
+      crossbow:
+        material: CROSSBOW
+        price: 900
+        enchants: ["quick_charge:3", "unbreaking:3"]
+      arrows:
+        material: ARROW
+        amount: 64
+        price: 250
+      shield:
+        material: SHIELD
+        price: 120
+        enchants: ["unbreaking:3"]
+      mace:
+        material: MACE
+        price: 12000
+        enchants: ["density:3", "unbreaking:3"]
+      golden_apples:
+        material: GOLDEN_APPLE
+        amount: 4
+        price: 1600
+      enchanted_golden_apple:
+        material: ENCHANTED_GOLDEN_APPLE
+        price: 4000
+      golden_carrots:
+        material: GOLDEN_CARROT
+        amount: 16
+        price: 800
+      ender_pearls:
+        material: ENDER_PEARL
+        amount: 4
+        price: 350
+      totem:
+        material: TOTEM_OF_UNDYING
+        price: 3000
+      healing_potions:
+        material: SPLASH_POTION
+        name: "&cSplash Healing II"
+        potion: strong_healing
+        amount: 3
+        price: 450
+      strength_potion:
+        material: POTION
+        name: "&4Strength II"
+        potion: strong_strength
+        price: 400
+      speed_potion:
+        material: SPLASH_POTION
+        name: "&bSplash Swiftness II"
+        potion: strong_swiftness
+        price: 250
+      fire_resistance:
+        material: POTION
+        name: "&6Fire Resistance"
+        potion: long_fire_resistance
+        price: 300
+      cobweb:
+        material: COBWEB
+        amount: 8
+        price: 200
+      obsidian:
+        material: OBSIDIAN
+        amount: 4
+        price: 250
+      water_bucket:
+        material: WATER_BUCKET
+        price: 100
+      wind_charges:
+        material: WIND_CHARGE
+        amount: 16
+        price: 300
+
+  qol:
+    title: "&a&lQuality of Life"
+    icon: ENDER_CHEST
+    slot: 13
+    currency: money
+    description: ["&7Tools, utilities and conveniences."]
+    items:
+      ender_chest:
+        material: ENDER_CHEST
+        price: 800
+      shulker_box:
+        material: SHULKER_BOX
+        price: 2500
+      bundle:
+        material: BUNDLE
+        price: 100
+      hoppers:
+        material: HOPPER
+        amount: 4
+        price: 600
+      efficiency_pickaxe:
+        material: DIAMOND_PICKAXE
+        name: "&bMiner's Pick"
+        price: 5500
+        enchants: ["efficiency:5", "unbreaking:3", "fortune:3", "mending:1"]
+      silk_pickaxe:
+        material: DIAMOND_PICKAXE
+        name: "&bSilk Pick"
+        price: 5500
+        enchants: ["efficiency:5", "unbreaking:3", "silk_touch:1", "mending:1"]
+      efficiency_shovel:
+        material: DIAMOND_SHOVEL
+        price: 4000
+        enchants: ["efficiency:5", "unbreaking:3", "mending:1"]
+      efficiency_axe:
+        material: DIAMOND_AXE
+        price: 4000
+        enchants: ["efficiency:5", "unbreaking:3", "mending:1"]
+      mending_book:
+        material: ENCHANTED_BOOK
+        price: 3000
+        enchants: ["mending:1"]
+      anvil:
+        material: ANVIL
+        price: 1000
+      enchanting_table:
+        material: ENCHANTING_TABLE
+        price: 1000
+      bookshelves:
+        material: BOOKSHELF
+        amount: 15
+        price: 1200
+      xp_bottles:
+        material: EXPERIENCE_BOTTLE
+        amount: 32
+        price: 1000
+      elytra:
+        material: ELYTRA
+        price: 9000
+        enchants: ["unbreaking:3", "mending:1"]
+      fireworks:
+        material: FIREWORK_ROCKET
+        amount: 32
+        price: 250
+      cooked_beef:
+        material: COOKED_BEEF
+        amount: 64
+        price: 250
+      torches:
+        material: TORCH
+        amount: 64
+        price: 100
+      night_vision:
+        material: POTION
+        name: "&9Night Vision"
+        potion: long_night_vision
+        price: 150
+      name_tag:
+        material: NAME_TAG
+        price: 400
+      saddle:
+        material: SADDLE
+        price: 500
+      beacon:
+        material: BEACON
+        price: 12000
+      repair_hand:
+        material: ANVIL
+        name: "&eRepair Held Item"
+        lore: ["&7Fully repairs the item in your hand."]
+        action: REPAIR_HAND
+        price: 500
+      heal:
+        material: GLISTERING_MELON_SLICE
+        name: "&cInstant Heal"
+        lore: ["&7Restores your health."]
+        commands: ["effect give %player% minecraft:instant_health 1 10 true"]
+        price: 200
+      feed:
+        material: COOKED_PORKCHOP
+        name: "&6Instant Feed"
+        lore: ["&7Fills your hunger bar."]
+        commands: ["effect give %player% minecraft:saturation 1 10 true"]
+        price: 150
+
+  vanta:
+    title: "&5&lVanta Shop"
+    icon: AMETHYST_SHARD
+    slot: 15
+    currency: shards
+    description: ["&7Spend &dVanta Shards &7earned from PvP kills."]
+    items:
+      vanta_key:
+        material: TRIAL_KEY
+        name: "&5&lVanta Key"
+        lore: ["&7Right-click to open for loot."]
+        action: KEY
+        amount: 1
+        price: 25
+      vanta_key_5:
+        material: TRIAL_KEY
+        name: "&5&lVanta Key x5"
+        lore: ["&7Five keys."]
+        action: KEY
+        amount: 5
+        price: 110
+      keyall:
+        material: OMINOUS_TRIAL_KEY
+        name: "&d&lKEY ALL"
+        lore: ["&7Everyone online receives 1 Vanta Key!", "&7Server-wide broadcast. Has a cooldown."]
+        action: KEYALL
+        amount: 1
+        price: 400
+      keyall_3:
+        material: OMINOUS_TRIAL_KEY
+        name: "&d&lKEY ALL x3"
+        lore: ["&7Everyone online receives 3 Vanta Keys!", "&7Server-wide broadcast. Has a cooldown."]
+        action: KEYALL
+        amount: 3
+        price: 1100
+      vanta_blade:
+        material: NETHERITE_SWORD
+        name: "&5&lVanta Blade"
+        price: 350
+        enchants: ["sharpness:5", "fire_aspect:2", "knockback:2", "sweeping_edge:3", "unbreaking:3", "mending:1"]
+      vanta_chestplate:
+        material: NETHERITE_CHESTPLATE
+        name: "&5&lVanta Plate"
+        price: 300
+        enchants: ["protection:4", "thorns:3", "unbreaking:3", "mending:1"]
+      gapples:
+        material: ENCHANTED_GOLDEN_APPLE
+        amount: 4
+        price: 60
+      totems:
+        material: TOTEM_OF_UNDYING
+        amount: 2
+        price: 60
+      money_pouch:
+        material: GOLD_INGOT
+        name: "&6Money Pouch"
+        lore: ["&7Instantly gives you $5,000."]
+        money: 5000
+        price: 50
+
+# Rewards from opening a Vanta Key. Higher weight = more common.
+key-loot:
+  money_5k:   { material: GOLD_INGOT, name: "$5,000", money: 5000, weight: 30 }
+  shards_15:  { material: AMETHYST_SHARD, name: "15 Vanta Shards", shards: 15, weight: 25 }
+  gapples:    { material: GOLDEN_APPLE, amount: 8, weight: 20 }
+  pearls:     { material: ENDER_PEARL, amount: 16, weight: 15 }
+  diamonds:   { material: DIAMOND, amount: 16, weight: 10 }
+  totem:      { material: TOTEM_OF_UNDYING, weight: 8 }
+  egap:       { material: ENCHANTED_GOLDEN_APPLE, amount: 2, weight: 6 }
+  shards_50:  { material: AMETHYST_SHARD, name: "50 Vanta Shards", shards: 50, weight: 5, broadcast: true }
+  mending:    { material: ENCHANTED_BOOK, name: "Mending Book", enchants: ["mending:1"], weight: 4, broadcast: true }
+  netherite:  { material: NETHERITE_INGOT, amount: 2, weight: 3, broadcast: true }
+  vanta_blade:
+    material: NETHERITE_SWORD
+    name: "&5&lVanta Blade"
+    enchants: ["sharpness:5", "fire_aspect:2", "knockback:2", "sweeping_edge:3", "unbreaking:3", "mending:1"]
+    weight: 1
+    broadcast: true

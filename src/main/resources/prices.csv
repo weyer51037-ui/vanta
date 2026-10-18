@@ -1,0 +1,1272 @@
+item,category,sell_price,buy_price_4x
+chainmail_boots,Armor,22.8,91.2
+chainmail_chestplate,Armor,45.6,182.4
+chainmail_helmet,Armor,28.5,114
+chainmail_leggings,Armor,39.9,159.6
+copper_boots,Armor,15.2,60.8
+copper_chestplate,Armor,30.4,121.6
+copper_helmet,Armor,19,76
+copper_horse_armor,Armor,60,240
+copper_leggings,Armor,26.6,106.4
+diamond_boots,Armor,380,1520
+diamond_chestplate,Armor,760,3040
+diamond_helmet,Armor,475,1900
+diamond_horse_armor,Armor,400,1600
+diamond_leggings,Armor,665,2660
+golden_boots,Armor,68.4,273.6
+golden_chestplate,Armor,136.8,547.2
+golden_helmet,Armor,85.5,342
+golden_horse_armor,Armor,220,880
+golden_leggings,Armor,119.7,478.8
+iron_boots,Armor,38,152
+iron_chestplate,Armor,76,304
+iron_helmet,Armor,47.5,190
+iron_horse_armor,Armor,120,480
+iron_leggings,Armor,66.5,266
+leather_boots,Armor,15.2,60.8
+leather_chestplate,Armor,30.4,121.6
+leather_helmet,Armor,19,76
+leather_horse_armor,Armor,40,160
+leather_leggings,Armor,26.6,106.4
+netherite_boots,Armor,2180,8720
+netherite_chestplate,Armor,2560,10240
+netherite_helmet,Armor,2275,9100
+netherite_leggings,Armor,2465,9860
+turtle_helmet,Armor,47.5,190
+wolf_armor,Armor,70,280
+bordure_indented_banner_pattern,Banner Patterns,30,120
+creeper_banner_pattern,Banner Patterns,200,800
+field_masoned_banner_pattern,Banner Patterns,30,120
+flow_banner_pattern,Banner Patterns,200,800
+flower_banner_pattern,Banner Patterns,30,120
+globe_banner_pattern,Banner Patterns,100,400
+guster_banner_pattern,Banner Patterns,200,800
+mojang_banner_pattern,Banner Patterns,300,1200
+piglin_banner_pattern,Banner Patterns,150,600
+skull_banner_pattern,Banner Patterns,250,1000
+black_banner,Colored,36.15,144.6
+black_bed,Colored,19.8,79.2
+black_candle,Colored,13,52
+black_carpet,Colored,4,16
+black_concrete,Colored,1.2,4.8
+black_concrete_powder,Colored,1,4
+black_glazed_terracotta,Colored,4,16
+black_shulker_box,Colored,520,2080
+black_stained_glass,Colored,1.5,6
+black_stained_glass_pane,Colored,0.5,2
+black_terracotta,Colored,3.5,14
+black_wool,Colored,6,24
+blue_banner,Colored,36.15,144.6
+blue_bed,Colored,19.8,79.2
+blue_candle,Colored,13,52
+blue_carpet,Colored,4,16
+blue_concrete,Colored,1.2,4.8
+blue_concrete_powder,Colored,1,4
+blue_glazed_terracotta,Colored,4,16
+blue_shulker_box,Colored,520,2080
+blue_stained_glass,Colored,1.5,6
+blue_stained_glass_pane,Colored,0.5,2
+blue_terracotta,Colored,3.5,14
+blue_wool,Colored,6,24
+brown_banner,Colored,36.15,144.6
+brown_bed,Colored,19.8,79.2
+brown_candle,Colored,13,52
+brown_carpet,Colored,4,16
+brown_concrete,Colored,1.2,4.8
+brown_concrete_powder,Colored,1,4
+brown_glazed_terracotta,Colored,4,16
+brown_shulker_box,Colored,520,2080
+brown_stained_glass,Colored,1.5,6
+brown_stained_glass_pane,Colored,0.5,2
+brown_terracotta,Colored,3.5,14
+brown_wool,Colored,6,24
+candle,Colored,11,44
+cyan_banner,Colored,36.15,144.6
+cyan_bed,Colored,19.8,79.2
+cyan_candle,Colored,13,52
+cyan_carpet,Colored,4,16
+cyan_concrete,Colored,1.2,4.8
+cyan_concrete_powder,Colored,1,4
+cyan_glazed_terracotta,Colored,4,16
+cyan_shulker_box,Colored,520,2080
+cyan_stained_glass,Colored,1.5,6
+cyan_stained_glass_pane,Colored,0.5,2
+cyan_terracotta,Colored,3.5,14
+cyan_wool,Colored,6,24
+gray_banner,Colored,36.15,144.6
+gray_bed,Colored,19.8,79.2
+gray_candle,Colored,13,52
+gray_carpet,Colored,4,16
+gray_concrete,Colored,1.2,4.8
+gray_concrete_powder,Colored,1,4
+gray_glazed_terracotta,Colored,4,16
+gray_shulker_box,Colored,520,2080
+gray_stained_glass,Colored,1.5,6
+gray_stained_glass_pane,Colored,0.5,2
+gray_terracotta,Colored,3.5,14
+gray_wool,Colored,6,24
+green_banner,Colored,36.15,144.6
+green_bed,Colored,19.8,79.2
+green_candle,Colored,13,52
+green_carpet,Colored,4,16
+green_concrete,Colored,1.2,4.8
+green_concrete_powder,Colored,1,4
+green_glazed_terracotta,Colored,4,16
+green_shulker_box,Colored,520,2080
+green_stained_glass,Colored,1.5,6
+green_stained_glass_pane,Colored,0.5,2
+green_terracotta,Colored,3.5,14
+green_wool,Colored,6,24
+light_blue_banner,Colored,36.15,144.6
+light_blue_bed,Colored,19.8,79.2
+light_blue_candle,Colored,13,52
+light_blue_carpet,Colored,4,16
+light_blue_concrete,Colored,1.2,4.8
+light_blue_concrete_powder,Colored,1,4
+light_blue_glazed_terracotta,Colored,4,16
+light_blue_shulker_box,Colored,520,2080
+light_blue_stained_glass,Colored,1.5,6
+light_blue_stained_glass_pane,Colored,0.5,2
+light_blue_terracotta,Colored,3.5,14
+light_blue_wool,Colored,6,24
+light_gray_banner,Colored,36.15,144.6
+light_gray_bed,Colored,19.8,79.2
+light_gray_candle,Colored,13,52
+light_gray_carpet,Colored,4,16
+light_gray_concrete,Colored,1.2,4.8
+light_gray_concrete_powder,Colored,1,4
+light_gray_glazed_terracotta,Colored,4,16
+light_gray_shulker_box,Colored,520,2080
+light_gray_stained_glass,Colored,1.5,6
+light_gray_stained_glass_pane,Colored,0.5,2
+light_gray_terracotta,Colored,3.5,14
+light_gray_wool,Colored,6,24
+lime_banner,Colored,36.15,144.6
+lime_bed,Colored,19.8,79.2
+lime_candle,Colored,13,52
+lime_carpet,Colored,4,16
+lime_concrete,Colored,1.2,4.8
+lime_concrete_powder,Colored,1,4
+lime_glazed_terracotta,Colored,4,16
+lime_shulker_box,Colored,520,2080
+lime_stained_glass,Colored,1.5,6
+lime_stained_glass_pane,Colored,0.5,2
+lime_terracotta,Colored,3.5,14
+lime_wool,Colored,6,24
+magenta_banner,Colored,36.15,144.6
+magenta_bed,Colored,19.8,79.2
+magenta_candle,Colored,13,52
+magenta_carpet,Colored,4,16
+magenta_concrete,Colored,1.2,4.8
+magenta_concrete_powder,Colored,1,4
+magenta_glazed_terracotta,Colored,4,16
+magenta_shulker_box,Colored,520,2080
+magenta_stained_glass,Colored,1.5,6
+magenta_stained_glass_pane,Colored,0.5,2
+magenta_terracotta,Colored,3.5,14
+magenta_wool,Colored,6,24
+orange_banner,Colored,36.15,144.6
+orange_bed,Colored,19.8,79.2
+orange_candle,Colored,13,52
+orange_carpet,Colored,4,16
+orange_concrete,Colored,1.2,4.8
+orange_concrete_powder,Colored,1,4
+orange_glazed_terracotta,Colored,4,16
+orange_shulker_box,Colored,520,2080
+orange_stained_glass,Colored,1.5,6
+orange_stained_glass_pane,Colored,0.5,2
+orange_terracotta,Colored,3.5,14
+orange_wool,Colored,6,24
+pink_banner,Colored,36.15,144.6
+pink_bed,Colored,19.8,79.2
+pink_candle,Colored,13,52
+pink_carpet,Colored,4,16
+pink_concrete,Colored,1.2,4.8
+pink_concrete_powder,Colored,1,4
+pink_glazed_terracotta,Colored,4,16
+pink_shulker_box,Colored,520,2080
+pink_stained_glass,Colored,1.5,6
+pink_stained_glass_pane,Colored,0.5,2
+pink_terracotta,Colored,3.5,14
+pink_wool,Colored,6,24
+purple_banner,Colored,36.15,144.6
+purple_bed,Colored,19.8,79.2
+purple_candle,Colored,13,52
+purple_carpet,Colored,4,16
+purple_concrete,Colored,1.2,4.8
+purple_concrete_powder,Colored,1,4
+purple_glazed_terracotta,Colored,4,16
+purple_shulker_box,Colored,520,2080
+purple_stained_glass,Colored,1.5,6
+purple_stained_glass_pane,Colored,0.5,2
+purple_terracotta,Colored,3.5,14
+purple_wool,Colored,6,24
+red_banner,Colored,36.15,144.6
+red_bed,Colored,19.8,79.2
+red_candle,Colored,13,52
+red_carpet,Colored,4,16
+red_concrete,Colored,1.2,4.8
+red_concrete_powder,Colored,1,4
+red_glazed_terracotta,Colored,4,16
+red_shulker_box,Colored,520,2080
+red_stained_glass,Colored,1.5,6
+red_stained_glass_pane,Colored,0.5,2
+red_terracotta,Colored,3.5,14
+red_wool,Colored,6,24
+shulker_box,Colored,515,2060
+white_banner,Colored,24.15,96.6
+white_bed,Colored,13.8,55.2
+white_candle,Colored,13,52
+white_carpet,Colored,2.67,10.68
+white_concrete,Colored,1.2,4.8
+white_concrete_powder,Colored,1,4
+white_glazed_terracotta,Colored,4,16
+white_shulker_box,Colored,520,2080
+white_stained_glass,Colored,1.5,6
+white_stained_glass_pane,Colored,0.5,2
+white_terracotta,Colored,3.2,12.8
+white_wool,Colored,4,16
+yellow_banner,Colored,36.15,144.6
+yellow_bed,Colored,19.8,79.2
+yellow_candle,Colored,13,52
+yellow_carpet,Colored,4,16
+yellow_concrete,Colored,1.2,4.8
+yellow_concrete_powder,Colored,1,4
+yellow_glazed_terracotta,Colored,4,16
+yellow_shulker_box,Colored,520,2080
+yellow_stained_glass,Colored,1.5,6
+yellow_stained_glass_pane,Colored,0.5,2
+yellow_terracotta,Colored,3.5,14
+yellow_wool,Colored,6,24
+chiseled_copper,Copper,36,144
+copper_bars,Copper,3,12
+copper_block,Copper,36,144
+copper_bulb,Copper,60,240
+copper_chain,Copper,9,36
+copper_chest,Copper,30,120
+copper_door,Copper,24,96
+copper_golem_statue,Copper,200,800
+copper_grate,Copper,36,144
+copper_lantern,Copper,20,80
+copper_torch,Copper,1,4
+copper_trapdoor,Copper,16,64
+cut_copper,Copper,36,144
+cut_copper_slab,Copper,18,72
+cut_copper_stairs,Copper,54,216
+exposed_chiseled_copper,Copper,36,144
+exposed_copper_block,Copper,36,144
+exposed_copper_bulb,Copper,60,240
+exposed_copper_door,Copper,24,96
+exposed_copper_golem_statue,Copper,200,800
+exposed_copper_grate,Copper,36,144
+exposed_copper_trapdoor,Copper,16,64
+exposed_cut_copper,Copper,36,144
+exposed_cut_copper_slab,Copper,18,72
+exposed_cut_copper_stairs,Copper,54,216
+honeycomb,Copper,8,32
+honeycomb_block,Copper,32,128
+oxidized_chiseled_copper,Copper,36,144
+oxidized_copper_block,Copper,36,144
+oxidized_copper_bulb,Copper,60,240
+oxidized_copper_door,Copper,24,96
+oxidized_copper_golem_statue,Copper,200,800
+oxidized_copper_grate,Copper,36,144
+oxidized_copper_trapdoor,Copper,16,64
+oxidized_cut_copper,Copper,36,144
+oxidized_cut_copper_slab,Copper,18,72
+oxidized_cut_copper_stairs,Copper,54,216
+waxed_chiseled_copper,Copper,36,144
+waxed_copper_block,Copper,38,152
+waxed_copper_bulb,Copper,60,240
+waxed_copper_door,Copper,24,96
+waxed_copper_grate,Copper,36,144
+waxed_copper_trapdoor,Copper,16,64
+waxed_cut_copper,Copper,36,144
+waxed_cut_copper_slab,Copper,18,72
+waxed_cut_copper_stairs,Copper,54,216
+waxed_exposed_chiseled_copper,Copper,36,144
+waxed_exposed_copper_block,Copper,38,152
+waxed_exposed_copper_bulb,Copper,60,240
+waxed_exposed_copper_door,Copper,24,96
+waxed_exposed_copper_grate,Copper,36,144
+waxed_exposed_copper_trapdoor,Copper,16,64
+waxed_exposed_cut_copper,Copper,36,144
+waxed_exposed_cut_copper_slab,Copper,18,72
+waxed_exposed_cut_copper_stairs,Copper,54,216
+waxed_oxidized_chiseled_copper,Copper,36,144
+waxed_oxidized_copper_block,Copper,38,152
+waxed_oxidized_copper_bulb,Copper,60,240
+waxed_oxidized_copper_door,Copper,24,96
+waxed_oxidized_copper_grate,Copper,36,144
+waxed_oxidized_copper_trapdoor,Copper,16,64
+waxed_oxidized_cut_copper,Copper,36,144
+waxed_oxidized_cut_copper_slab,Copper,18,72
+waxed_oxidized_cut_copper_stairs,Copper,54,216
+waxed_weathered_chiseled_copper,Copper,36,144
+waxed_weathered_copper_block,Copper,38,152
+waxed_weathered_copper_bulb,Copper,60,240
+waxed_weathered_copper_door,Copper,24,96
+waxed_weathered_copper_grate,Copper,36,144
+waxed_weathered_copper_trapdoor,Copper,16,64
+waxed_weathered_cut_copper,Copper,36,144
+waxed_weathered_cut_copper_slab,Copper,18,72
+waxed_weathered_cut_copper_stairs,Copper,54,216
+weathered_chiseled_copper,Copper,36,144
+weathered_copper_block,Copper,36,144
+weathered_copper_bulb,Copper,60,240
+weathered_copper_door,Copper,24,96
+weathered_copper_golem_statue,Copper,200,800
+weathered_copper_grate,Copper,36,144
+weathered_copper_trapdoor,Copper,16,64
+weathered_cut_copper,Copper,36,144
+weathered_cut_copper_slab,Copper,18,72
+weathered_cut_copper_stairs,Copper,54,216
+brain_coral,Corals,4,16
+brain_coral_block,Corals,6,24
+brain_coral_fan,Corals,4,16
+bubble_coral,Corals,4,16
+bubble_coral_block,Corals,6,24
+bubble_coral_fan,Corals,4,16
+dead_brain_coral,Corals,1,4
+dead_brain_coral_block,Corals,1.5,6
+dead_brain_coral_fan,Corals,1,4
+dead_bubble_coral,Corals,1,4
+dead_bubble_coral_block,Corals,1.5,6
+dead_bubble_coral_fan,Corals,1,4
+dead_fire_coral,Corals,1,4
+dead_fire_coral_block,Corals,1.5,6
+dead_fire_coral_fan,Corals,1,4
+dead_horn_coral,Corals,1,4
+dead_horn_coral_block,Corals,1.5,6
+dead_horn_coral_fan,Corals,1,4
+dead_tube_coral,Corals,1,4
+dead_tube_coral_block,Corals,1.5,6
+dead_tube_coral_fan,Corals,1,4
+fire_coral,Corals,4,16
+fire_coral_block,Corals,6,24
+fire_coral_fan,Corals,4,16
+horn_coral,Corals,4,16
+horn_coral_block,Corals,6,24
+horn_coral_fan,Corals,4,16
+tube_coral,Corals,4,16
+tube_coral_block,Corals,6,24
+tube_coral_fan,Corals,4,16
+black_dye,Dyes,3,12
+blue_dye,Dyes,5,20
+brown_dye,Dyes,3,12
+cyan_dye,Dyes,2,8
+gray_dye,Dyes,2,8
+green_dye,Dyes,2,8
+light_blue_dye,Dyes,2,8
+light_gray_dye,Dyes,2,8
+lime_dye,Dyes,2,8
+magenta_dye,Dyes,2,8
+orange_dye,Dyes,2,8
+pink_dye,Dyes,2,8
+purple_dye,Dyes,2,8
+red_dye,Dyes,2,8
+white_dye,Dyes,1,4
+yellow_dye,Dyes,2,8
+allium,Farming & Food,3,12
+apple,Farming & Food,5,20
+azalea,Farming & Food,6,24
+azure_bluet,Farming & Food,2,8
+baked_potato,Farming & Food,3,12
+beef,Farming & Food,3,12
+beetroot,Farming & Food,2,8
+beetroot_seeds,Farming & Food,1,4
+beetroot_soup,Farming & Food,12,48
+big_dripleaf,Farming & Food,3,12
+blue_orchid,Farming & Food,3,12
+bone,Farming & Food,2,8
+bone_meal,Farming & Food,1,4
+bread,Farming & Food,5,20
+brown_mushroom,Farming & Food,2,8
+brown_mushroom_block,Farming & Food,1,4
+bush,Farming & Food,1,4
+cactus,Farming & Food,2,8
+cactus_flower,Farming & Food,4,16
+cake,Farming & Food,100,400
+carrot,Farming & Food,2,8
+carved_pumpkin,Farming & Food,4.5,18
+chicken,Farming & Food,2,8
+chorus_flower,Farming & Food,12,48
+chorus_fruit,Farming & Food,4,16
+chorus_plant,Farming & Food,2,8
+closed_eyeblossom,Farming & Food,8,32
+cocoa_beans,Farming & Food,3,12
+cod,Farming & Food,2,8
+cooked_beef,Farming & Food,5,20
+cooked_chicken,Farming & Food,4,16
+cooked_cod,Farming & Food,3,12
+cooked_mutton,Farming & Food,5,20
+cooked_porkchop,Farming & Food,5,20
+cooked_rabbit,Farming & Food,5,20
+cooked_salmon,Farming & Food,5,20
+cookie,Farming & Food,1.5,6
+cornflower,Farming & Food,2,8
+dandelion,Farming & Food,2,8
+dead_bush,Farming & Food,0.2,0.8
+dried_kelp,Farming & Food,1.5,6
+egg,Farming & Food,2,8
+fermented_spider_eye,Farming & Food,8,32
+fern,Farming & Food,0.3,1.2
+firefly_bush,Farming & Food,5,20
+flowering_azalea,Farming & Food,8,32
+glistering_melon_slice,Farming & Food,17,68
+glow_berries,Farming & Food,3,12
+glow_lichen,Farming & Food,3,12
+golden_apple,Farming & Food,148,592
+golden_carrot,Farming & Food,18,72
+hanging_roots,Farming & Food,2,8
+jack_o_lantern,Farming & Food,5,20
+kelp,Farming & Food,1,4
+large_fern,Farming & Food,0.4,1.6
+leaf_litter,Farming & Food,0.2,0.8
+lilac,Farming & Food,3,12
+lily_of_the_valley,Farming & Food,3,12
+lily_pad,Farming & Food,3,12
+melon_seeds,Farming & Food,1,4
+melon_slice,Farming & Food,1,4
+mushroom_stem,Farming & Food,1,4
+mushroom_stew,Farming & Food,8,32
+mutton,Farming & Food,3,12
+nether_wart,Farming & Food,4,16
+open_eyeblossom,Farming & Food,8,32
+orange_tulip,Farming & Food,2,8
+oxeye_daisy,Farming & Food,2,8
+peony,Farming & Food,3,12
+pink_petals,Farming & Food,2,8
+pink_tulip,Farming & Food,2,8
+pitcher_plant,Farming & Food,5,20
+pitcher_pod,Farming & Food,5,20
+poisonous_potato,Farming & Food,1,4
+popped_chorus_fruit,Farming & Food,5,20
+poppy,Farming & Food,2,8
+porkchop,Farming & Food,3,12
+potato,Farming & Food,2,8
+pufferfish,Farming & Food,6,24
+pumpkin,Farming & Food,4,16
+pumpkin_pie,Farming & Food,8,32
+pumpkin_seeds,Farming & Food,1,4
+rabbit,Farming & Food,3,12
+rabbit_stew,Farming & Food,25,100
+red_mushroom,Farming & Food,2,8
+red_mushroom_block,Farming & Food,1,4
+red_tulip,Farming & Food,2,8
+rose_bush,Farming & Food,3,12
+salmon,Farming & Food,3,12
+sea_pickle,Farming & Food,3,12
+seagrass,Farming & Food,0.2,0.8
+short_dry_grass,Farming & Food,0.2,0.8
+short_grass,Farming & Food,0.2,0.8
+small_dripleaf,Farming & Food,3,12
+spore_blossom,Farming & Food,20,80
+sugar,Farming & Food,2,8
+sugar_cane,Farming & Food,2,8
+sunflower,Farming & Food,3,12
+suspicious_stew,Farming & Food,25,100
+sweet_berries,Farming & Food,1,4
+tall_dry_grass,Farming & Food,0.3,1.2
+tall_grass,Farming & Food,0.3,1.2
+torchflower,Farming & Food,5,20
+torchflower_seeds,Farming & Food,5,20
+tropical_fish,Farming & Food,8,32
+vine,Farming & Food,1,4
+wheat,Farming & Food,2,8
+wheat_seeds,Farming & Food,0.5,2
+white_tulip,Farming & Food,2,8
+wildflowers,Farming & Food,2,8
+wither_rose,Farming & Food,200,800
+amethyst_shard,Minerals,8,32
+ancient_debris,Minerals,450,1800
+brick,Minerals,3,12
+charcoal,Minerals,4,16
+clay_ball,Minerals,1,4
+coal,Minerals,5,20
+copper_ingot,Minerals,4,16
+crying_obsidian,Minerals,25,100
+diamond,Minerals,100,400
+echo_shard,Minerals,200,800
+emerald,Minerals,60,240
+flint,Minerals,1,4
+glowstone_dust,Minerals,5,20
+gold_ingot,Minerals,18,72
+gold_nugget,Minerals,2,8
+iron_ingot,Minerals,10,40
+iron_nugget,Minerals,1.1,4.4
+lapis_lazuli,Minerals,5,20
+nether_brick,Minerals,3,12
+netherite_ingot,Minerals,1800,7200
+netherite_scrap,Minerals,400,1600
+obsidian,Minerals,20,80
+quartz,Minerals,6,24
+raw_copper,Minerals,3,12
+raw_gold,Minerals,15,60
+raw_iron,Minerals,8,32
+redstone,Minerals,4,16
+resin_brick,Minerals,3,12
+resin_clump,Minerals,2,8
+amethyst_cluster,Mob Drops,40,160
+feather,Mob Drops,1,4
+glow_ink_sac,Mob Drops,8,32
+gunpowder,Mob Drops,5,20
+ink_sac,Mob Drops,3,12
+leather,Mob Drops,4,16
+ochre_froglight,Mob Drops,60,240
+pearlescent_froglight,Mob Drops,60,240
+phantom_membrane,Mob Drops,15,60
+prismarine_crystals,Mob Drops,12,48
+prismarine_shard,Mob Drops,5,20
+rabbit_foot,Mob Drops,50,200
+rabbit_hide,Mob Drops,3,12
+rotten_flesh,Mob Drops,1,4
+shulker_shell,Mob Drops,250,1000
+spider_eye,Mob Drops,3,12
+string,Mob Drops,3,12
+verdant_froglight,Mob Drops,60,240
+disc_fragment_5,Music Discs,20,80
+music_disc_11,Music Discs,400,1600
+music_disc_13,Music Discs,400,1600
+music_disc_5,Music Discs,1000,4000
+music_disc_blocks,Music Discs,400,1600
+music_disc_cat,Music Discs,400,1600
+music_disc_chirp,Music Discs,400,1600
+music_disc_creator,Music Discs,700,2800
+music_disc_creator_music_box,Music Discs,700,2800
+music_disc_far,Music Discs,400,1600
+music_disc_lava_chill,Music Discs,700,2800
+music_disc_mall,Music Discs,400,1600
+music_disc_mellohi,Music Discs,400,1600
+music_disc_otherside,Music Discs,900,3600
+music_disc_pigstep,Music Discs,900,3600
+music_disc_precipice,Music Discs,700,2800
+music_disc_relic,Music Discs,700,2800
+music_disc_stal,Music Discs,400,1600
+music_disc_strad,Music Discs,400,1600
+music_disc_tears,Music Discs,700,2800
+music_disc_wait,Music Discs,400,1600
+music_disc_ward,Music Discs,400,1600
+andesite,Natural Blocks,0.5,2
+basalt,Natural Blocks,0.5,2
+blackstone,Natural Blocks,0.8,3.2
+blue_ice,Natural Blocks,80,320
+calcite,Natural Blocks,2,8
+calibrated_sculk_sensor,Natural Blocks,90,360
+clay,Natural Blocks,4,16
+coarse_dirt,Natural Blocks,0.3,1.2
+cobbled_deepslate,Natural Blocks,0.5,2
+cobblestone,Natural Blocks,0.5,2
+cobweb,Natural Blocks,8,32
+crimson_nylium,Natural Blocks,3,12
+deepslate,Natural Blocks,0.6,2.4
+diorite,Natural Blocks,0.5,2
+dirt,Natural Blocks,0.2,0.8
+dripstone_block,Natural Blocks,1,4
+end_stone,Natural Blocks,1,4
+granite,Natural Blocks,0.5,2
+grass_block,Natural Blocks,0.3,1.2
+gravel,Natural Blocks,0.4,1.6
+ice,Natural Blocks,1,4
+moss_block,Natural Blocks,2,8
+moss_carpet,Natural Blocks,1.2,4.8
+mud,Natural Blocks,0.3,1.2
+mycelium,Natural Blocks,5,20
+netherrack,Natural Blocks,0.2,0.8
+packed_ice,Natural Blocks,9,36
+pale_hanging_moss,Natural Blocks,2,8
+pale_moss_block,Natural Blocks,3,12
+pale_moss_carpet,Natural Blocks,1.8,7.2
+podzol,Natural Blocks,1,4
+pointed_dripstone,Natural Blocks,1,4
+powder_snow_bucket,Natural Blocks,30,120
+red_sand,Natural Blocks,0.6,2.4
+rooted_dirt,Natural Blocks,0.5,2
+sand,Natural Blocks,0.5,2
+sculk,Natural Blocks,5,20
+sculk_catalyst,Natural Blocks,60,240
+sculk_sensor,Natural Blocks,40,160
+sculk_shrieker,Natural Blocks,80,320
+sculk_vein,Natural Blocks,1,4
+smooth_basalt,Natural Blocks,0.7,2.8
+snow,Natural Blocks,0.5,2
+snow_block,Natural Blocks,2,8
+snowball,Natural Blocks,0.3,1.2
+soul_sand,Natural Blocks,3,12
+soul_soil,Natural Blocks,3,12
+stone,Natural Blocks,0.8,3.2
+suspicious_gravel,Natural Blocks,30,120
+suspicious_sand,Natural Blocks,30,120
+tuff,Natural Blocks,0.6,2.4
+warped_nylium,Natural Blocks,3,12
+coal_ore,Ores,6,24
+copper_ore,Ores,4,16
+deepslate_coal_ore,Ores,7,28
+deepslate_copper_ore,Ores,5,20
+deepslate_diamond_ore,Ores,110,440
+deepslate_emerald_ore,Ores,70,280
+deepslate_gold_ore,Ores,19,76
+deepslate_iron_ore,Ores,11,44
+deepslate_lapis_ore,Ores,7,28
+deepslate_redstone_ore,Ores,6,24
+diamond_ore,Ores,105,420
+emerald_ore,Ores,65,260
+gold_ore,Ores,18,72
+iron_ore,Ores,10,40
+lapis_ore,Ores,6,24
+nether_gold_ore,Ores,8,32
+nether_quartz_ore,Ores,7,28
+redstone_ore,Ores,5,20
+angler_pottery_sherd,Pottery,40,160
+archer_pottery_sherd,Pottery,40,160
+arms_up_pottery_sherd,Pottery,40,160
+blade_pottery_sherd,Pottery,40,160
+brewer_pottery_sherd,Pottery,40,160
+burn_pottery_sherd,Pottery,40,160
+danger_pottery_sherd,Pottery,40,160
+explorer_pottery_sherd,Pottery,40,160
+flow_pottery_sherd,Pottery,40,160
+friend_pottery_sherd,Pottery,40,160
+guster_pottery_sherd,Pottery,40,160
+heart_pottery_sherd,Pottery,40,160
+heartbreak_pottery_sherd,Pottery,40,160
+howl_pottery_sherd,Pottery,40,160
+miner_pottery_sherd,Pottery,40,160
+mourner_pottery_sherd,Pottery,40,160
+plenty_pottery_sherd,Pottery,40,160
+prize_pottery_sherd,Pottery,40,160
+scrape_pottery_sherd,Pottery,40,160
+sheaf_pottery_sherd,Pottery,40,160
+shelter_pottery_sherd,Pottery,40,160
+skull_pottery_sherd,Pottery,40,160
+snort_pottery_sherd,Pottery,40,160
+bolt_armor_trim_smithing_template,Smithing Templates,500,2000
+coast_armor_trim_smithing_template,Smithing Templates,500,2000
+dune_armor_trim_smithing_template,Smithing Templates,500,2000
+eye_armor_trim_smithing_template,Smithing Templates,500,2000
+flow_armor_trim_smithing_template,Smithing Templates,500,2000
+host_armor_trim_smithing_template,Smithing Templates,500,2000
+raiser_armor_trim_smithing_template,Smithing Templates,500,2000
+rib_armor_trim_smithing_template,Smithing Templates,500,2000
+sentry_armor_trim_smithing_template,Smithing Templates,500,2000
+shaper_armor_trim_smithing_template,Smithing Templates,500,2000
+silence_armor_trim_smithing_template,Smithing Templates,500,2000
+snout_armor_trim_smithing_template,Smithing Templates,500,2000
+spire_armor_trim_smithing_template,Smithing Templates,500,2000
+tide_armor_trim_smithing_template,Smithing Templates,500,2000
+vex_armor_trim_smithing_template,Smithing Templates,500,2000
+ward_armor_trim_smithing_template,Smithing Templates,500,2000
+wayfinder_armor_trim_smithing_template,Smithing Templates,500,2000
+wild_armor_trim_smithing_template,Smithing Templates,500,2000
+andesite_slab,Stone,0.25,1
+andesite_stairs,Stone,0.75,3
+andesite_wall,Stone,0.5,2
+blackstone_slab,Stone,0.4,1.6
+blackstone_stairs,Stone,1.2,4.8
+blackstone_wall,Stone,0.8,3.2
+brick_slab,Stone,6,24
+brick_stairs,Stone,18,72
+brick_wall,Stone,12,48
+bricks,Stone,12,48
+chiseled_deepslate,Stone,1,4
+chiseled_nether_bricks,Stone,12,48
+chiseled_polished_blackstone,Stone,1,4
+chiseled_quartz_block,Stone,24,96
+chiseled_red_sandstone,Stone,1.3,5.2
+chiseled_resin_bricks,Stone,12,48
+chiseled_sandstone,Stone,1.1,4.4
+chiseled_stone_bricks,Stone,1.2,4.8
+chiseled_tuff,Stone,1,4
+chiseled_tuff_bricks,Stone,1,4
+cobbled_deepslate_slab,Stone,0.25,1
+cobbled_deepslate_stairs,Stone,0.75,3
+cobbled_deepslate_wall,Stone,0.5,2
+cobblestone_slab,Stone,0.25,1
+cobblestone_stairs,Stone,0.75,3
+cobblestone_wall,Stone,0.5,2
+cracked_deepslate_bricks,Stone,1.2,4.8
+cracked_deepslate_tiles,Stone,1.2,4.8
+cracked_nether_bricks,Stone,12,48
+cracked_polished_blackstone_bricks,Stone,1.3,5.2
+cracked_stone_bricks,Stone,1.2,4.8
+cut_red_sandstone,Stone,1.3,5.2
+cut_red_sandstone_slab,Stone,0.65,2.6
+cut_sandstone,Stone,1.1,4.4
+cut_sandstone_slab,Stone,0.55,2.2
+dark_prismarine,Stone,50,200
+dark_prismarine_slab,Stone,25,100
+dark_prismarine_stairs,Stone,75,300
+deepslate_brick_slab,Stone,0.5,2
+deepslate_brick_stairs,Stone,1.5,6
+deepslate_brick_wall,Stone,1,4
+deepslate_bricks,Stone,1,4
+deepslate_tile_slab,Stone,0.5,2
+deepslate_tile_stairs,Stone,1.5,6
+deepslate_tile_wall,Stone,1,4
+deepslate_tiles,Stone,1,4
+diorite_slab,Stone,0.25,1
+diorite_stairs,Stone,0.75,3
+diorite_wall,Stone,0.5,2
+end_stone_brick_slab,Stone,0.6,2.4
+end_stone_brick_stairs,Stone,1.8,7.2
+end_stone_brick_wall,Stone,1.2,4.8
+end_stone_bricks,Stone,1.2,4.8
+gilded_blackstone,Stone,15,60
+glass,Stone,1,4
+glass_pane,Stone,0.5,2
+granite_slab,Stone,0.25,1
+granite_stairs,Stone,0.75,3
+granite_wall,Stone,0.5,2
+lightning_rod,Stone,12,48
+mossy_cobblestone,Stone,1,4
+mossy_cobblestone_slab,Stone,0.5,2
+mossy_cobblestone_stairs,Stone,1.5,6
+mossy_cobblestone_wall,Stone,1,4
+mossy_stone_brick_slab,Stone,0.75,3
+mossy_stone_brick_stairs,Stone,2.25,9
+mossy_stone_brick_wall,Stone,1.5,6
+mossy_stone_bricks,Stone,1.5,6
+mud_brick_slab,Stone,1,4
+mud_brick_stairs,Stone,3,12
+mud_brick_wall,Stone,2,8
+mud_bricks,Stone,2,8
+nether_brick_fence,Stone,12,48
+nether_brick_slab,Stone,6,24
+nether_brick_stairs,Stone,18,72
+nether_brick_wall,Stone,12,48
+nether_bricks,Stone,12,48
+packed_mud,Stone,2,8
+polished_andesite,Stone,0.7,2.8
+polished_andesite_slab,Stone,0.35,1.4
+polished_andesite_stairs,Stone,1.05,4.2
+polished_blackstone,Stone,1,4
+polished_blackstone_brick_slab,Stone,0.6,2.4
+polished_blackstone_brick_stairs,Stone,1.8,7.2
+polished_blackstone_brick_wall,Stone,1.2,4.8
+polished_blackstone_bricks,Stone,1.2,4.8
+polished_blackstone_button,Stone,1,4
+polished_blackstone_pressure_plate,Stone,2,8
+polished_blackstone_slab,Stone,0.5,2
+polished_blackstone_stairs,Stone,1.5,6
+polished_blackstone_wall,Stone,1,4
+polished_deepslate,Stone,0.8,3.2
+polished_deepslate_slab,Stone,0.4,1.6
+polished_deepslate_stairs,Stone,1.2,4.8
+polished_deepslate_wall,Stone,0.8,3.2
+polished_diorite,Stone,0.7,2.8
+polished_diorite_slab,Stone,0.35,1.4
+polished_diorite_stairs,Stone,1.05,4.2
+polished_granite,Stone,0.7,2.8
+polished_granite_slab,Stone,0.35,1.4
+polished_granite_stairs,Stone,1.05,4.2
+polished_tuff,Stone,0.8,3.2
+polished_tuff_slab,Stone,0.4,1.6
+polished_tuff_stairs,Stone,1.2,4.8
+polished_tuff_wall,Stone,0.8,3.2
+prismarine,Stone,20,80
+prismarine_brick_slab,Stone,22.5,90
+prismarine_brick_stairs,Stone,67.5,270
+prismarine_bricks,Stone,45,180
+prismarine_slab,Stone,10,40
+prismarine_stairs,Stone,30,120
+prismarine_wall,Stone,20,80
+purpur_block,Stone,10,40
+purpur_pillar,Stone,10,40
+purpur_slab,Stone,5,20
+purpur_stairs,Stone,15,60
+quartz_bricks,Stone,24,96
+quartz_pillar,Stone,24,96
+quartz_slab,Stone,12,48
+quartz_stairs,Stone,36,144
+red_nether_brick_slab,Stone,8,32
+red_nether_brick_stairs,Stone,24,96
+red_nether_brick_wall,Stone,16,64
+red_nether_bricks,Stone,16,64
+red_sandstone,Stone,1.2,4.8
+red_sandstone_slab,Stone,0.6,2.4
+red_sandstone_stairs,Stone,1.8,7.2
+red_sandstone_wall,Stone,1.2,4.8
+resin_brick_slab,Stone,6,24
+resin_brick_stairs,Stone,18,72
+resin_brick_wall,Stone,12,48
+resin_bricks,Stone,12,48
+sandstone,Stone,1,4
+sandstone_slab,Stone,0.5,2
+sandstone_stairs,Stone,1.5,6
+sandstone_wall,Stone,1,4
+smooth_quartz,Stone,24,96
+smooth_quartz_slab,Stone,12,48
+smooth_quartz_stairs,Stone,36,144
+smooth_red_sandstone,Stone,1.3,5.2
+smooth_red_sandstone_slab,Stone,0.65,2.6
+smooth_red_sandstone_stairs,Stone,1.95,7.8
+smooth_sandstone,Stone,1.1,4.4
+smooth_sandstone_slab,Stone,0.55,2.2
+smooth_sandstone_stairs,Stone,1.65,6.6
+smooth_stone,Stone,1,4
+smooth_stone_slab,Stone,0.5,2
+stone_brick_slab,Stone,0.5,2
+stone_brick_stairs,Stone,1.5,6
+stone_brick_wall,Stone,1,4
+stone_bricks,Stone,1,4
+stone_button,Stone,0.8,3.2
+stone_pressure_plate,Stone,1.6,6.4
+stone_slab,Stone,0.4,1.6
+stone_stairs,Stone,1.2,4.8
+terracotta,Stone,3,12
+tinted_glass,Stone,38,152
+tuff_brick_slab,Stone,0.5,2
+tuff_brick_stairs,Stone,1.5,6
+tuff_brick_wall,Stone,1,4
+tuff_bricks,Stone,1,4
+tuff_slab,Stone,0.3,1.2
+tuff_stairs,Stone,0.9,3.6
+tuff_wall,Stone,0.6,2.4
+amethyst_block,Storage Blocks,32,128
+bone_block,Storage Blocks,9,36
+coal_block,Storage Blocks,45,180
+diamond_block,Storage Blocks,900,3600
+dried_kelp_block,Storage Blocks,9,36
+emerald_block,Storage Blocks,540,2160
+glowstone,Storage Blocks,20,80
+gold_block,Storage Blocks,162,648
+hay_block,Storage Blocks,18,72
+honey_block,Storage Blocks,80,320
+iron_block,Storage Blocks,90,360
+lapis_block,Storage Blocks,45,180
+magma_block,Storage Blocks,38,152
+melon,Storage Blocks,9,36
+netherite_block,Storage Blocks,16200,64800
+quartz_block,Storage Blocks,24,96
+raw_copper_block,Storage Blocks,27,108
+raw_gold_block,Storage Blocks,135,540
+raw_iron_block,Storage Blocks,72,288
+redstone_block,Storage Blocks,36,144
+resin_block,Storage Blocks,18,72
+sea_lantern,Storage Blocks,40,160
+shroomlight,Storage Blocks,10,40
+slime_block,Storage Blocks,72,288
+sponge,Storage Blocks,30,120
+wet_sponge,Storage Blocks,30,120
+copper_axe,Tools,11.69,46.76
+copper_hoe,Tools,7.89,31.56
+copper_pickaxe,Tools,11.69,46.76
+copper_shovel,Tools,4.08,16.32
+copper_spear,Tools,7.74,30.96
+copper_sword,Tools,7.74,30.96
+diamond_axe,Tools,285.29,1141.16
+diamond_hoe,Tools,190.28,761.12
+diamond_pickaxe,Tools,285.29,1141.16
+diamond_shovel,Tools,95.28,381.12
+diamond_spear,Tools,190.14,760.56
+diamond_sword,Tools,190.14,760.56
+golden_axe,Tools,51.58,206.32
+golden_hoe,Tools,34.48,137.92
+golden_pickaxe,Tools,51.58,206.32
+golden_shovel,Tools,17.39,69.56
+golden_spear,Tools,34.34,137.36
+golden_sword,Tools,34.34,137.36
+iron_axe,Tools,28.79,115.16
+iron_hoe,Tools,19.29,77.16
+iron_pickaxe,Tools,28.79,115.16
+iron_shovel,Tools,9.79,39.16
+iron_spear,Tools,19.14,76.56
+iron_sword,Tools,19.14,76.56
+netherite_axe,Tools,2085.29,8341.16
+netherite_hoe,Tools,1990.28,7961.12
+netherite_pickaxe,Tools,2085.29,8341.16
+netherite_shovel,Tools,1895.28,7581.12
+netherite_spear,Tools,1990.14,7960.56
+netherite_sword,Tools,1990.14,7960.56
+stone_axe,Tools,1.71,6.84
+stone_hoe,Tools,1.23,4.92
+stone_pickaxe,Tools,1.71,6.84
+stone_shovel,Tools,0.76,3.04
+stone_spear,Tools,1.09,4.36
+stone_sword,Tools,1.09,4.36
+wooden_axe,Tools,1.99,7.96
+wooden_hoe,Tools,1.42,5.68
+wooden_pickaxe,Tools,1.99,7.96
+wooden_shovel,Tools,0.85,3.4
+wooden_spear,Tools,1.28,5.12
+wooden_sword,Tools,1.28,5.12
+armadillo_scute,Tools & Rare,6,24
+arrow,Tools & Rare,1,4
+beacon,Tools & Rare,3200,12800
+blaze_powder,Tools & Rare,10,40
+blaze_rod,Tools & Rare,20,80
+book,Tools & Rare,9,36
+bow,Tools & Rare,15,60
+breeze_rod,Tools & Rare,30,120
+brush,Tools & Rare,10,40
+bucket,Tools & Rare,28,112
+carrot_on_a_stick,Tools & Rare,10,40
+clock,Tools & Rare,76,304
+compass,Tools & Rare,41,164
+conduit,Tools & Rare,1800,7200
+creeper_head,Tools & Rare,400,1600
+crossbow,Tools & Rare,25,100
+dragon_breath,Tools & Rare,40,160
+dragon_egg,Tools & Rare,5000,20000
+dragon_head,Tools & Rare,3000,12000
+elytra,Tools & Rare,3000,12000
+enchanted_golden_apple,Tools & Rare,1000,4000
+end_crystal,Tools & Rare,77,308
+ender_eye,Tools & Rare,33,132
+ender_pearl,Tools & Rare,25,100
+experience_bottle,Tools & Rare,12,48
+fire_charge,Tools & Rare,8,32
+firework_rocket,Tools & Rare,6,24
+firework_star,Tools & Rare,8,32
+fishing_rod,Tools & Rare,8,32
+flint_and_steel,Tools & Rare,12,48
+frog_spawn,Tools & Rare,10,40
+ghast_tear,Tools & Rare,40,160
+glass_bottle,Tools & Rare,1,4
+goat_horn,Tools & Rare,200,800
+heart_of_the_sea,Tools & Rare,500,2000
+heavy_core,Tools & Rare,1500,6000
+lava_bucket,Tools & Rare,30,120
+lead,Tools & Rare,7,28
+mace,Tools & Rare,4000,16000
+map,Tools & Rare,30,120
+milk_bucket,Tools & Rare,30,120
+name_tag,Tools & Rare,100,400
+nautilus_shell,Tools & Rare,150,600
+nether_star,Tools & Rare,3000,12000
+netherite_upgrade_smithing_template,Tools & Rare,900,3600
+ominous_bottle,Tools & Rare,60,240
+paper,Tools & Rare,2,8
+piglin_head,Tools & Rare,450,1800
+recovery_compass,Tools & Rare,1600,6400
+saddle,Tools & Rare,120,480
+shears,Tools & Rare,19,76
+shield,Tools & Rare,20,80
+skeleton_skull,Tools & Rare,400,1600
+sniffer_egg,Tools & Rare,150,600
+spectral_arrow,Tools & Rare,4,16
+spyglass,Tools & Rare,40,160
+totem_of_undying,Tools & Rare,800,3200
+trident,Tools & Rare,1500,6000
+turtle_egg,Tools & Rare,100,400
+turtle_scute,Tools & Rare,10,40
+warped_fungus_on_a_stick,Tools & Rare,10,40
+water_bucket,Tools & Rare,29,116
+wind_charge,Tools & Rare,6,24
+wither_skeleton_skull,Tools & Rare,1500,6000
+writable_book,Tools & Rare,12,48
+zombie_head,Tools & Rare,400,1600
+activator_rail,Utility,10,40
+anvil,Utility,290,1160
+armor_stand,Utility,7,28
+bell,Utility,150,600
+blast_furnace,Utility,60,240
+bookshelf,Utility,40,160
+brewing_stand,Utility,25,100
+bundle,Utility,15,60
+campfire,Utility,6,24
+cartography_table,Utility,5,20
+cauldron,Utility,70,280
+chain,Utility,11,44
+chest_minecart,Utility,52,208
+chipped_anvil,Utility,200,800
+chiseled_bookshelf,Utility,20,80
+comparator,Utility,30,120
+composter,Utility,4,16
+crafter,Utility,70,280
+damaged_anvil,Utility,100,400
+daylight_detector,Utility,25,100
+decorated_pot,Utility,12,48
+detector_rail,Utility,10,40
+dispenser,Utility,20,80
+dropper,Utility,10,40
+enchanting_table,Utility,300,1200
+end_rod,Utility,8,32
+ender_chest,Utility,200,800
+fletching_table,Utility,5,20
+flower_pot,Utility,5,20
+furnace,Utility,4,16
+furnace_minecart,Utility,50,200
+glow_item_frame,Utility,12,48
+grindstone,Utility,8,32
+heavy_weighted_pressure_plate,Utility,19,76
+honey_bottle,Utility,20,80
+hopper,Utility,52,208
+hopper_minecart,Utility,98,392
+iron_bars,Utility,3.5,14
+iron_door,Utility,19,76
+iron_trapdoor,Utility,38,152
+item_frame,Utility,6,24
+jukebox,Utility,105,420
+lantern,Utility,12,48
+lectern,Utility,30,120
+lever,Utility,1,4
+light_weighted_pressure_plate,Utility,36,144
+lodestone,Utility,1830,7320
+loom,Utility,7,28
+magma_cream,Utility,10,40
+minecart,Utility,47,188
+note_block,Utility,9,36
+observer,Utility,20,80
+painting,Utility,8,32
+piston,Utility,18,72
+powered_rail,Utility,17,68
+rail,Utility,3.5,14
+redstone_lamp,Utility,30,120
+redstone_torch,Utility,5,20
+repeater,Utility,12,48
+respawn_anchor,Utility,180,720
+slime_ball,Utility,8,32
+smithing_table,Utility,12,48
+smoker,Utility,12,48
+soul_campfire,Utility,8,32
+soul_lantern,Utility,15,60
+soul_torch,Utility,1.5,6
+sticky_piston,Utility,26,104
+stonecutter,Utility,15,60
+target,Utility,40,160
+tnt,Utility,26,104
+tnt_minecart,Utility,70,280
+torch,Utility,0.5,2
+tripwire_hook,Utility,12,48
+acacia_boat,Wood,4.5,18
+acacia_button,Wood,0.9,3.6
+acacia_chest_boat,Wood,11.7,46.8
+acacia_door,Wood,1.98,7.92
+acacia_fence,Wood,1.35,5.4
+acacia_fence_gate,Wood,4.05,16.2
+acacia_hanging_sign,Wood,6.6,26.4
+acacia_leaves,Wood,0.3,1.2
+acacia_log,Wood,3,12
+acacia_planks,Wood,0.9,3.6
+acacia_pressure_plate,Wood,1.8,7.2
+acacia_sapling,Wood,2,8
+acacia_sign,Wood,1.98,7.92
+acacia_slab,Wood,0.45,1.8
+acacia_stairs,Wood,1.35,5.4
+acacia_trapdoor,Wood,2.7,10.8
+acacia_wood,Wood,3.9,15.6
+azalea_leaves,Wood,0.5,2
+bamboo,Wood,1,4
+bamboo_block,Wood,1.2,4.8
+bamboo_button,Wood,0.6,2.4
+bamboo_chest_raft,Wood,8,32
+bamboo_door,Wood,1.3,5.2
+bamboo_fence,Wood,0.9,3.6
+bamboo_fence_gate,Wood,2.7,10.8
+bamboo_hanging_sign,Wood,4.5,18
+bamboo_mosaic,Wood,0.7,2.8
+bamboo_mosaic_slab,Wood,0.35,1.4
+bamboo_mosaic_stairs,Wood,1,4
+bamboo_planks,Wood,0.6,2.4
+bamboo_pressure_plate,Wood,1.2,4.8
+bamboo_raft,Wood,3,12
+bamboo_sign,Wood,1.3,5.2
+bamboo_slab,Wood,0.3,1.2
+bamboo_stairs,Wood,0.9,3.6
+bamboo_trapdoor,Wood,1.8,7.2
+barrel,Wood,6,24
+birch_boat,Wood,3,12
+birch_button,Wood,0.6,2.4
+birch_chest_boat,Wood,7.8,31.2
+birch_door,Wood,1.32,5.28
+birch_fence,Wood,0.9,3.6
+birch_fence_gate,Wood,2.7,10.8
+birch_hanging_sign,Wood,5.4,21.6
+birch_leaves,Wood,0.3,1.2
+birch_log,Wood,2,8
+birch_planks,Wood,0.6,2.4
+birch_pressure_plate,Wood,1.2,4.8
+birch_sapling,Wood,2,8
+birch_sign,Wood,1.32,5.28
+birch_slab,Wood,0.3,1.2
+birch_stairs,Wood,0.9,3.6
+birch_trapdoor,Wood,1.8,7.2
+birch_wood,Wood,2.6,10.4
+bowl,Wood,0.6,2.4
+cherry_boat,Wood,4.5,18
+cherry_button,Wood,0.9,3.6
+cherry_chest_boat,Wood,11.7,46.8
+cherry_door,Wood,1.98,7.92
+cherry_fence,Wood,1.35,5.4
+cherry_fence_gate,Wood,4.05,16.2
+cherry_hanging_sign,Wood,6.6,26.4
+cherry_leaves,Wood,0.5,2
+cherry_log,Wood,3,12
+cherry_planks,Wood,0.9,3.6
+cherry_pressure_plate,Wood,1.8,7.2
+cherry_sapling,Wood,2,8
+cherry_sign,Wood,1.98,7.92
+cherry_slab,Wood,0.45,1.8
+cherry_stairs,Wood,1.35,5.4
+cherry_trapdoor,Wood,2.7,10.8
+cherry_wood,Wood,3.9,15.6
+chest,Wood,5,20
+crafting_table,Wood,2.4,9.6
+crimson_button,Wood,0.9,3.6
+crimson_door,Wood,1.98,7.92
+crimson_fence,Wood,1.35,5.4
+crimson_fence_gate,Wood,4.05,16.2
+crimson_fungus,Wood,6,24
+crimson_hanging_sign,Wood,5.94,23.76
+crimson_hyphae,Wood,4,16
+crimson_planks,Wood,0.9,3.6
+crimson_pressure_plate,Wood,1.8,7.2
+crimson_roots,Wood,1,4
+crimson_sign,Wood,1.98,7.92
+crimson_slab,Wood,0.45,1.8
+crimson_stairs,Wood,1.35,5.4
+crimson_stem,Wood,3,12
+crimson_trapdoor,Wood,2.7,10.8
+dark_oak_boat,Wood,4.5,18
+dark_oak_button,Wood,0.9,3.6
+dark_oak_chest_boat,Wood,11.7,46.8
+dark_oak_door,Wood,1.98,7.92
+dark_oak_fence,Wood,1.35,5.4
+dark_oak_fence_gate,Wood,4.05,16.2
+dark_oak_hanging_sign,Wood,6.6,26.4
+dark_oak_leaves,Wood,0.3,1.2
+dark_oak_log,Wood,3,12
+dark_oak_planks,Wood,0.9,3.6
+dark_oak_pressure_plate,Wood,1.8,7.2
+dark_oak_sapling,Wood,2,8
+dark_oak_sign,Wood,1.98,7.92
+dark_oak_slab,Wood,0.45,1.8
+dark_oak_stairs,Wood,1.35,5.4
+dark_oak_trapdoor,Wood,2.7,10.8
+dark_oak_wood,Wood,3.9,15.6
+flowering_azalea_leaves,Wood,0.7,2.8
+jungle_boat,Wood,4.5,18
+jungle_button,Wood,0.9,3.6
+jungle_chest_boat,Wood,11.7,46.8
+jungle_door,Wood,1.98,7.92
+jungle_fence,Wood,1.35,5.4
+jungle_fence_gate,Wood,4.05,16.2
+jungle_hanging_sign,Wood,6.6,26.4
+jungle_leaves,Wood,0.3,1.2
+jungle_log,Wood,3,12
+jungle_planks,Wood,0.9,3.6
+jungle_pressure_plate,Wood,1.8,7.2
+jungle_sapling,Wood,2,8
+jungle_sign,Wood,1.98,7.92
+jungle_slab,Wood,0.45,1.8
+jungle_stairs,Wood,1.35,5.4
+jungle_trapdoor,Wood,2.7,10.8
+jungle_wood,Wood,3.9,15.6
+ladder,Wood,1,4
+mangrove_boat,Wood,4.5,18
+mangrove_button,Wood,0.9,3.6
+mangrove_chest_boat,Wood,11.7,46.8
+mangrove_door,Wood,1.98,7.92
+mangrove_fence,Wood,1.35,5.4
+mangrove_fence_gate,Wood,4.05,16.2
+mangrove_hanging_sign,Wood,6.6,26.4
+mangrove_leaves,Wood,0.3,1.2
+mangrove_log,Wood,3,12
+mangrove_planks,Wood,0.9,3.6
+mangrove_pressure_plate,Wood,1.8,7.2
+mangrove_propagule,Wood,3,12
+mangrove_roots,Wood,1,4
+mangrove_sapling,Wood,2,8
+mangrove_sign,Wood,1.98,7.92
+mangrove_slab,Wood,0.45,1.8
+mangrove_stairs,Wood,1.35,5.4
+mangrove_trapdoor,Wood,2.7,10.8
+mangrove_wood,Wood,3.9,15.6
+muddy_mangrove_roots,Wood,1.5,6
+nether_wart_block,Wood,4,16
+oak_boat,Wood,3,12
+oak_button,Wood,0.6,2.4
+oak_chest_boat,Wood,7.8,31.2
+oak_door,Wood,1.32,5.28
+oak_fence,Wood,0.9,3.6
+oak_fence_gate,Wood,2.7,10.8
+oak_hanging_sign,Wood,5.4,21.6
+oak_leaves,Wood,0.3,1.2
+oak_log,Wood,2,8
+oak_planks,Wood,0.6,2.4
+oak_pressure_plate,Wood,1.2,4.8
+oak_sapling,Wood,2,8
+oak_sign,Wood,1.32,5.28
+oak_slab,Wood,0.3,1.2
+oak_stairs,Wood,0.9,3.6
+oak_trapdoor,Wood,1.8,7.2
+oak_wood,Wood,2.6,10.4
+pale_oak_boat,Wood,4.5,18
+pale_oak_button,Wood,0.9,3.6
+pale_oak_chest_boat,Wood,11.7,46.8
+pale_oak_door,Wood,1.98,7.92
+pale_oak_fence,Wood,1.35,5.4
+pale_oak_fence_gate,Wood,4.05,16.2
+pale_oak_hanging_sign,Wood,6.6,26.4
+pale_oak_leaves,Wood,0.5,2
+pale_oak_log,Wood,3,12
+pale_oak_planks,Wood,0.9,3.6
+pale_oak_pressure_plate,Wood,1.8,7.2
+pale_oak_sapling,Wood,2,8
+pale_oak_sign,Wood,1.98,7.92
+pale_oak_slab,Wood,0.45,1.8
+pale_oak_stairs,Wood,1.35,5.4
+pale_oak_trapdoor,Wood,2.7,10.8
+pale_oak_wood,Wood,3.9,15.6
+scaffolding,Wood,2,8
+spruce_boat,Wood,3,12
+spruce_button,Wood,0.6,2.4
+spruce_chest_boat,Wood,7.8,31.2
+spruce_door,Wood,1.32,5.28
+spruce_fence,Wood,0.9,3.6
+spruce_fence_gate,Wood,2.7,10.8
+spruce_hanging_sign,Wood,5.4,21.6
+spruce_leaves,Wood,0.3,1.2
+spruce_log,Wood,2,8
+spruce_planks,Wood,0.6,2.4
+spruce_pressure_plate,Wood,1.2,4.8
+spruce_sapling,Wood,2,8
+spruce_sign,Wood,1.32,5.28
+spruce_slab,Wood,0.3,1.2
+spruce_stairs,Wood,0.9,3.6
+spruce_trapdoor,Wood,1.8,7.2
+spruce_wood,Wood,2.6,10.4
+stick,Wood,0.15,0.6
+stripped_acacia_log,Wood,3,12
+stripped_acacia_wood,Wood,3.9,15.6
+stripped_bamboo_block,Wood,1.2,4.8
+stripped_birch_log,Wood,2,8
+stripped_birch_wood,Wood,2.6,10.4
+stripped_cherry_log,Wood,3,12
+stripped_cherry_wood,Wood,3.9,15.6
+stripped_crimson_hyphae,Wood,4,16
+stripped_crimson_stem,Wood,3,12
+stripped_dark_oak_log,Wood,3,12
+stripped_dark_oak_wood,Wood,3.9,15.6
+stripped_jungle_log,Wood,3,12
+stripped_jungle_wood,Wood,3.9,15.6
+stripped_mangrove_log,Wood,3,12
+stripped_mangrove_wood,Wood,3.9,15.6
+stripped_oak_log,Wood,2,8
+stripped_oak_wood,Wood,2.6,10.4
+stripped_pale_oak_log,Wood,3,12
+stripped_pale_oak_wood,Wood,3.9,15.6
+stripped_spruce_log,Wood,2,8
+stripped_spruce_wood,Wood,2.6,10.4
+stripped_warped_hyphae,Wood,4,16
+stripped_warped_stem,Wood,3,12
+trapped_chest,Wood,17,68
+twisting_vines,Wood,2,8
+warped_button,Wood,0.9,3.6
+warped_door,Wood,1.98,7.92
+warped_fence,Wood,1.35,5.4
+warped_fence_gate,Wood,4.05,16.2
+warped_fungus,Wood,6,24
+warped_hanging_sign,Wood,5.94,23.76
+warped_hyphae,Wood,4,16
+warped_planks,Wood,0.9,3.6
+warped_pressure_plate,Wood,1.8,7.2
+warped_roots,Wood,1,4
+warped_sign,Wood,1.98,7.92
+warped_slab,Wood,0.45,1.8
+warped_stairs,Wood,1.35,5.4
+warped_stem,Wood,3,12
+warped_trapdoor,Wood,2.7,10.8
+warped_wart_block,Wood,5,20
+weeping_vines,Wood,2,8
